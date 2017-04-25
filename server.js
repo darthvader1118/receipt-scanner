@@ -21,6 +21,7 @@ vision.detectText(fileName)
    			var j = i;
    			payments += parseInt(detections[j+1].toLowerCase())
    			console.log("total payments: " + payments + "\n");
+   			//check if this works
 
    		}
    	}
